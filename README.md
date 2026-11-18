@@ -6,7 +6,7 @@
 
 Análisis exploratorio de datos sobre rutas de transporte de carga: compara el costo de peajes entre rutas alternativas, estudia la relación entre la duración del viaje y los viáticos, y mide qué tanto difieren las fuentes de kilometraje (Google Maps, Waze y ViaMichelin) frente a un valor de referencia.
 
-![Resumen del análisis](export-01\grafics\4.png)
+![Resumen del análisis](export-01/grafics/4.png)
 
 ## Preguntas que responde
 
