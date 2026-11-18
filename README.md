@@ -37,13 +37,11 @@ route-cost-analysis/
 ├── README.md
 ├── requirements.txt
 ├── data/
-│   └── sample/
-│       ├── deliveries_sample.xlsx
-│       └── top_routes_sample.xlsx
 ├── notebooks/
 │   └── 01_route_cost_exploratory_analysis.ipynb
-└── images/
-    └── resumen_analisis.png
+└── export-01/
+    └── grafics.png
+    └── abstrac.docx
 ```
 
 ## Cómo ejecutarlo
