@@ -36,7 +36,6 @@ Análisis exploratorio de datos sobre rutas de transporte de carga: compara el c
 route-cost-analysis/
 ├── README.md
 ├── requirements.txt
-├── .gitignore
 ├── data/
 │   └── sample/
 │       ├── deliveries_sample.xlsx
